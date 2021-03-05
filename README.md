@@ -9,7 +9,7 @@ Chèn thêm bộ đếm thời gian vào đầu file ELF, ví dụ trước 10h 
 Kỹ thuật này được đề cập trong quyển [Practical Binary Analysis](https://www.pdfdrive.com/practical-binary-analysis-build-your-own-linux-tools-for-binary-instrumentation-analysis-and-disassembly-e158534629.html)
 
 ### Sơ đồ
-`tạo shellcode countdown` --> `encode shellcode timer` --> `mmap mem` --> `final shellcode` --> `inject ELF`
+`create shellcode countdown` --> `encode shellcode timer` --> `mmap mem` --> `final shellcode` --> `inject ELF`
 
 ### Minh họa
 
