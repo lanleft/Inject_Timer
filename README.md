@@ -12,3 +12,13 @@ Kỹ thuật này được đề cập trong quyển [Practical Binary Analysis]
 
 ![image01](imgs/defense.png)
 
+### Reference
+
+[LIEF](https://lief.quarkslab.com/doc/latest/tutorials/05_elf_infect_plt_got.html)
+
+[ELF patchkit](https://blog.csdn.net/weixin_30764883/article/details/96114163)
+
+[Special Sections](https://docs.oracle.com/cd/E19683-01/816-1386/chapter7-1/index.html)
+
+[Lab in Practical Binary](https://github.com/lanleft/practical-binary)
+
