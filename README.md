@@ -1,6 +1,6 @@
 # Inject timer to ELF file
 
-*Đang trong quá trình fix code để quá trình tự động hóa cả quá trình :vv*
+*Đang trong quá trình fix code để tự động hóa cả quá trình :vv*
 
 ### Miêu tả
 
