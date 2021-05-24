@@ -2,7 +2,7 @@
 
 *Đang trong quá trình fix code để tự động hóa cả quá trình :vv*
 
-### Miêu tả
+### Description
 
 Chèn thêm bộ đếm thời gian vào đầu file ELF, ví dụ trước 10h ngày xx/yy/zz thì vẫn chạy nhưng sau đó thì không chạy được :)))
 
