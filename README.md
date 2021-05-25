@@ -15,7 +15,7 @@ Kỹ thuật này được đề cập trong quyển [Practical Binary Analysis]
 
 ![image01](imgs/defense.png)
 
-### Reference
+### References
 
 [LIEF](https://lief.quarkslab.com/doc/latest/tutorials/05_elf_infect_plt_got.html)
 
